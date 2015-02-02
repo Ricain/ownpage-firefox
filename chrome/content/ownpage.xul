@@ -1,0 +1,5 @@
+<overlay id="tabhomepageOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+	<script type="application/x-javascript" src="chrome://ownpage/content/ownpage.js"/>
+
+</overlay>
